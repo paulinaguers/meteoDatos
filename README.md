@@ -3,14 +3,22 @@
 
 # meteoDatos
 
-[![R-CMD-check](https://github.com/sofiapijoan17/meteoDatos/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sofiapijoan17/meteoDatos/actions/workflows/R-CMD-check.yaml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
-![Test coverage target: 75%](https://img.shields.io/badge/coverage%20target-75%25-blue.svg)
-![Package: R](https://img.shields.io/badge/package-R-276DC3.svg)
-![Tests: testthat](https://img.shields.io/badge/tests-testthat-green.svg)
+<!-- badges: start -->
 
-![Logo de meteoDatos](man/figures/logo.svg)
+[![R-CMD-check](https://github.com/sofiapijoan17/meteoDatos/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sofiapijoan17/meteoDatos/actions/workflows/R-CMD-check.yaml)
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test
+coverage](https://img.shields.io/codecov/c/github/sofiapijoan17/meteoDatos)](https://app.codecov.io/gh/sofiapijoan17/meteoDatos)
+[![testthat](https://img.shields.io/badge/testthat-3.0.0-green.svg)](https://testthat.r-lib.org)
+<!-- badges: end -->
+
+<figure>
+<img src="man/figures/logo.svg" alt="Logo de meteoDatos" />
+<figcaption aria-hidden="true">Logo de meteoDatos</figcaption>
+</figure>
 
 Paquete de R desarrollado por Sofia Pijoan y Mia Siriani para la materia
 Programacion II.
